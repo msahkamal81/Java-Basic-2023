@@ -62,5 +62,8 @@ public class ArrayConcept {
 	   
 
 	}
+	public static void doSearch() {
+		System.out.println();
+	}
 
 }
