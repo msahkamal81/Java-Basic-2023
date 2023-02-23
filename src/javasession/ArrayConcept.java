@@ -57,13 +57,7 @@ public class ArrayConcept {
 	   System.out.println(c);
 	   
 	   
-	   
-	   
-	   
-
 	}
-	public static void doSearch() {
-		System.out.println();
-	}
+	
 
 }
